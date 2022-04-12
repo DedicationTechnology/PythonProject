@@ -192,5 +192,3 @@
 #
 # mp.legend()
 # mp.show()
-
-# 测试git版本是否支持
